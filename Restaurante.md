@@ -21,7 +21,8 @@
     </header>
     
     <section id="inicio">
-        <img src="imagen_principal.jpg" alt="Imagen del Restaurante">
+        <img src="![image](https://github.com/AnthonyYT301/AnthonyYT301.github.io/assets/141166171/2f631dc7-a6d5-40ad-9454-1f053cd0f06e)
+" alt="Imagen del Restaurante">
         <div class="descripcion">
             <p>Bienvenidos a Restaurante Sabor Delicioso, donde cada plato es una obra de arte culinaria.</p>
         </div>
